@@ -13,11 +13,11 @@ The course focuses on AI agents—autonomous systems that can plan, use tools, c
 
 ### 🗓️ Course Structure
 
-| Day | Theme | Focus Area | Key Learnings |
-|-----|--------|-------------|----------------|
-| **Day 1** | *AI Agent Architecture* | Foundations of agent-based systems | Modular design, orchestrators, memory, tools |
-| **Day 2** | *Upcoming* | Upcoming | Upcoming |
-| **Day 3** | *Upcoming* | Upcoming | Upcoming |
-| **Day 4** | *Upcoming* | Upcoming | Upcoming |
-| **Day 5** | *Upcoming* | Upcoming | Upcoming |
+| Day       | Theme                                     | Focus Area                                                 | Key Learnings                                                                                                                                 |
+| --------- | ----------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Day 1** | *Introduction to Agents*                  | Foundational concepts of AI agents and their architectures | Understanding agent characteristics, how agentic architectures differ from traditional LLM apps, and building intelligent, autonomous systems |
+| **Day 2** | *Agent Tools & Interoperability with MCP* | Tools, actions, and external API integrations              | Learn how AI agents take actions using tools and APIs, and explore the Model Context Protocol (MCP) for interoperability                      |
+| **Day 3** | *Context Engineering: Sessions & Memory*  | Memory and context retention                               | Implement short-term and long-term memory for robust agents capable of handling complex, multi-turn interactions                              |
+| **Day 4** | *Agent Quality*                           | Evaluation, observability, and performance optimization    | Master techniques for improving agent reliability, tracing, logging, and defining metrics to optimize agent performance                       |
+| **Day 5** | *Prototype to Production*                 | Deployment and scalability                                 | Learn best practices for scaling and deploying AI agents, including multi-agent systems using the Agent2Agent (A2A) protocol                  |
 
